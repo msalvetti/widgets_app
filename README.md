@@ -1,6 +1,6 @@
 # widgets_app
 
-A new Flutter project with a lot of widgets
+A new Flutter project with a lot of widgets. It's like a sandbox for me.
 
 ## Getting Started
 
