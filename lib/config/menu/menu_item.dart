@@ -54,5 +54,10 @@ const appMenuItems = <MenuItem>[
       subtitle: "Listas infinitas y pull to refresh",
       link: "/infinite",
       icon: Icons.list_alt_rounded),
+  MenuItem(
+      title: "Counter Screen",
+      subtitle: "para probar Riverpood",
+      link: "/counter",
+      icon: Icons.add),
   // MenuItem(title: title, subtitle: subtitle, link: link, icon: icon),
 ];
