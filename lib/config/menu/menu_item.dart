@@ -59,5 +59,10 @@ const appMenuItems = <MenuItem>[
       subtitle: "para probar Riverpood",
       link: "/counter",
       icon: Icons.add),
+  MenuItem(
+      title: "Theme Changer Screen",
+      subtitle: "cambiando el color",
+      link: "/theme-changer",
+      icon: Icons.color_lens),
   // MenuItem(title: title, subtitle: subtitle, link: link, icon: icon),
 ];
